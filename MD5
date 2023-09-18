@@ -1,0 +1,16 @@
+0484cb2965428d2327d24b070d1e0bda *DESCRIPTION
+c61350c8e9e8d853615c81924991d327 *LICENSE
+1fa4518ccfd9f101e43e78d2ad72b57f *NAMESPACE
+a71b149b69ee4f366ad5e1f79022f366 *NEWS.md
+399f6e3efe1ae82dc8f5e486c77cffb2 *R/appsheet.R
+a1ad94a34d9e3a35805c64ac64685a32 *R/ash_properties.R
+abe1f72c1a1b569390600cc0a6edebfd *R/ash_request.R
+7df521da2cb1d1dfa3b471b884e66680 *README.md
+b43d254b35891682bd3bb347425e70e8 *man/appsheet.Rd
+618ce095273a0e9db3a8f3af8f731134 *man/ash_properties.Rd
+9685f14649b7e7f50d35f42bc046e83b *man/ash_request.Rd
+2afb7be007e952f1a232917218f51fbc *tests/testthat.R
+a4736eea008473eb081ed66108d6c9d6 *tests/testthat/test-appsheet-action-add-delete.R
+0c63b8b7d29c7353bce26769ddb60821 *tests/testthat/test-appsheet-action-edit.R
+a57a4151408a01550a2e921992da9ceb *tests/testthat/test-appsheet-action-find.R
+7ed18471f1737ca262f1a486b10bbe50 *tests/testthat/test-appsheet.R
